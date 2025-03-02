@@ -1,0 +1,45 @@
+.message {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+    max-width: 80%;
+  }
+  .user {
+    background: #4CAF50;
+    color: white;
+    align-self: flex-end;
+  }
+  .bot {
+    background: #e0e0e0;
+    color: black;
+    align-self: flex-start;
+  }
+  
+
+.message {
+  background: #f1f1f1;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.user {
+  background: #d1e7ff;
+  text-align: right;
+}
+
+.bot {
+  background: #e2e2e2;
+  text-align: left;
+}
+
+/* Additional styles for better formatting */
+.message p {
+  margin: 5px 0;
+}
+
+.message ul {
+  padding-left: 20px;
+}
