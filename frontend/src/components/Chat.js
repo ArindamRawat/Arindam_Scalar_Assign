@@ -12,7 +12,7 @@ const Chat = () => {
     setMessages(newMessages);
 
     try {
-      const response = await axios.post("http://localhost:5000/api/chat", { message });
+      const response = await axios.post("https://arindam-scalar-assign.onrender.com/api/chat", { message });
       setMessages([...newMessages, { text: response.data.response, sender: "bot" }]);
     } catch (error) {
       console.error("Error fetching response:", error);
