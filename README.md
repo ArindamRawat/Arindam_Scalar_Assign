@@ -3,6 +3,10 @@
 This is a **full-stack AI-powered chat assistant** that helps users understand **Data Structures and Algorithms (DSA)** problems from **LeetCode**.
 It uses **Google Gemini AI** to provide **guidance, hints, and structured explanations** without directly giving the solution.
 
+## DEMO 
+
+Visit at - [Visit Site](https://arindam-scalar-assign-1.onrender.com/)
+
 ---
 
 ## 🚀 Features
