@@ -133,6 +133,8 @@ Your **React frontend should now be running on** `http://localhost:3000/` 🚀.
 
 ---
 ## Images.
+
+![image](https://github.com/user-attachments/assets/aa446b33-73a0-4f70-9a54-1b9ba34a342b)
 ![img2](https://github.com/user-attachments/assets/85f51032-76f8-4f39-9940-aa3b71706763)
 ![img1](https://github.com/user-attachments/assets/5459c3dd-6ed4-4cb3-8109-dc62e70da387)
 
