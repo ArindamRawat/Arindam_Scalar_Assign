@@ -46,7 +46,7 @@ gemini-dsa-chat/
 
 ### 🔹 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/gemini-dsa-chat.git
+git clone https://github.com/ArindamRawat/Arindam_Scalar_Assign.git
 cd gemini-dsa-chat
 ```
 
