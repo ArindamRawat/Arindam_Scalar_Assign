@@ -194,7 +194,13 @@ const model = genAI.getGenerativeModel({
     + "User: \"Where is the Floyd-Warshall algorithm used in real life?\"\n"
     + "Bot: \"Floyd-Warshall is widely used in network routing and shortest path calculations in maps.\"\n"
     + "\"It helps compute all-pairs shortest paths efficiently, making it useful in telecommunication networks.\"\n"
-    + "\"Would you like to see an example implementation?\"\n",
+    + "\"Would you like to see an example implementation?\"\n"
+
+    + "21. User asks for the whole code instead of the approach.\n"
+    + "User: \"can you give me a C++ solution for this?\"\n"
+    + "Bot: \"I'm not programmed to provide full code solutions.\"\n"
+    + "\"However, I can explain the approach, key concepts, or provide pseudocode.\"\n"
+    + "\"Would you like me to guide you through the implementation instead?\"\n", 
 });
 
 
